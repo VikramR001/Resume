@@ -47,20 +47,20 @@ SKILLS
 
  TECHNICAL
  
- Java
- Sql
- Python
- HTML 
+ Java,
+ Sql,
+ Python,
+ HTML ,
  CSS
 
  NON-TECHNICAL
 
-Verbal Communication 
+Verbal Communication ,
 Logical Thinking 
 
 AREA OF INTEREST
 
-Full Stack Development 
+Full Stack Development ,
 Game Development 
 
 LANGUAGES

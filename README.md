@@ -2,7 +2,8 @@
 
 VIKRAM R
 
-✆ +91 6380150477 @ vicky4122003@gmail.com
+✆ +91 6380150477 
+@ vicky4122003@gmail.com
 
 🔗 https://www.linkedin.com/in/vikram-vikram-943141248
 
@@ -15,23 +16,18 @@ To thrive in a professional, results-oriented environment where I can leverage m
 ACADEMIC PROFILE
 
 Sethu Institute of Technology
-
 Bachelor of Electronics and Communication Engineering
-
 A CGPA of 7.9 was achieved through the 7th semester
-
- 2021 - 2025 Kariapatti,Virudhunagar.
+2021 - 2025 Kariapatti,Virudhunagar.
 
 HSC - 2021
 
 Sivananda Vidyalayam Matric Hr. Sec School 78.12%
-
 Ramasamy Nagar, Aruppukottai.
 
 SSLC - 2019
 
 Sivananda Vidyalayam Matriculation School 70.4%
-
 Ramasamy Nagar, Aruppukottai.
 
 INTERNSHIP

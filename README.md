@@ -65,8 +65,8 @@ Game Development
 
 LANGUAGES
 
-Tamil LSRW
-English LSRW
+Tamil LSRW,
+English LSRW,
 Telugu LS
 
 PROJECTS

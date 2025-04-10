@@ -33,30 +33,20 @@ Ramasamy Nagar, Aruppukottai.
 INTERNSHIP
 
 Company Name: Rail Infotech Services
-
 Madurai, India
 
-Railway Data Network Internship at Rail Infotech Services 
-
-from June 3rd, 2024 to June 8th, 2024.
-
-Learned railway network operations, ATIS (Automated Train 
-
-Information Systems), and crew monitoring systems through data 
-
-analysis and software/device study.
+Railway Data Network Internship at Rail Infotech Services from June 3rd, 2024 to June 8th, 2024.Learned railway network operations, ATIS (Automated Train Information Systems), and crew monitoring systems through data analysis and software/device study.
 
 ACHIEVEMENTS
 
-• Achieved a certification in cloud computing by completing the 
-
-NPTEL course on October 28th 2023, demonstrating proficiency in cloud concepts
+• Achieved a certification in cloud computing by completing the NPTEL course on October 28th 2023, demonstrating proficiency in cloud concepts
 
 • Awarded Certificate of Presentation from Sethu Institute of Technology, April 5, 2024, for paper titled "Instant Accident Alert System" presented at the International Conference on Recent Innovations in Information and Computing Technologies (RIICT'24).
 
 SKILLS
 
  TECHNICAL
+ 
  Java
  Sql
  Python
@@ -69,15 +59,14 @@ Verbal Communication
 Logical Thinking 
 
 AREA OF INTEREST
+
 Full Stack Development 
 Game Development 
 
 LANGUAGES
 
 Tamil LSRW
-
 English LSRW
-
 Telugu LS
 
 PROJECTS
